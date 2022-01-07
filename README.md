@@ -2,3 +2,6 @@
 - Eggs
 - Milk
 - Cereal
+- Fruit
+- Yogurt
+- Snacks
